@@ -1,0 +1,46 @@
+/*specific styles for bootstrap demo*/
+
+.green-box {
+   background: #33cc66;
+   min-height: 75px;
+   margin: 15px;
+   border-radius: 11px;
+}
+
+.blue-box {
+   background: #2395ef;
+   min-height: 35px;
+}
+
+.gray-box{
+    background: #f4f4f4;
+    min-height: 10px;
+ }
+ 
+.white-box {
+    min-height: 900px;
+    background-color: white;
+    margin: 15px;
+    border: 1px solid gray;
+    
+}
+
+.paddit{
+    padding:10px;
+}
+
+.search {
+   background: 
+}
+
+h1 {
+   color: white;
+   font-family: "Myriad Pro";
+   size: 36pt;
+}
+
+.second-blue-box {
+   background: #2395ef;
+   min-height: 100px;
+   margin: 15px;
+}
